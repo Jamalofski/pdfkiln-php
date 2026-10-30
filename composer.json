@@ -8,7 +8,7 @@
         "pdf",
         "chromium"
     ],
-    "homepage": "https://github.com/Jamalofski/pdfkiln",
+    "homepage": "https://pdfkiln.org",
     "license": "MIT",
     "require": {
         "php": ">=7.4"
@@ -22,5 +22,9 @@
         "bin/wkhtmltopdf",
         "bin/wkhtmltoimage",
         "bin/pdfkiln"
-    ]
+    ],
+    "support": {
+        "issues": "https://github.com/Jamalofski/pdfkiln/issues",
+        "source": "https://github.com/Jamalofski/pdfkiln"
+    }
 }
