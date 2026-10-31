@@ -1,6 +1,6 @@
 {
   "version": "1.1.0",
-  "url": "https://github.com/Jamalofski/pdfkiln/releases/download/1.1.0",
+  "url": "https://github.com/pdfkiln/pdfkiln/releases/download/1.1.0",
   "sha256": {
     "pdfkiln-1.1.0-linux-x64.tar.gz": "7bd9b770d6b45982411b001384893cb480553c32ab77f062aa58dd7df8134c85",
     "pdfkiln-1.1.0-linux-arm64.tar.gz": "0acca08ae9ed0ac3c3be65c2dca82eb3009a002b60e798c55cdbbef257494632",

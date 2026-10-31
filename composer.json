@@ -24,7 +24,7 @@
         "bin/pdfkiln"
     ],
     "support": {
-        "issues": "https://github.com/Jamalofski/pdfkiln/issues",
-        "source": "https://github.com/Jamalofski/pdfkiln"
+        "issues": "https://github.com/pdfkiln/pdfkiln/issues",
+        "source": "https://github.com/pdfkiln/pdfkiln"
     }
 }
